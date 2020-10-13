@@ -1,0 +1,39 @@
+body {
+  background: #fff;
+  font-family: Montserrat,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: inherit;
+  text-rendering: optimizeLegibility; }
+
+#site-header {
+  background-color: #237cbd; }
+  #site-header .site-title a {
+    color: #fff; }
+  #site-header .site-description {
+    color: #fff; }
+    #site-header .site-description a {
+      color: #fff; }
+
+#site-content {
+  max-width: 800px;
+  margin: 0 auto; }
+
+.faq-container .faq-question-container {
+  display: flex;
+  margin: 2rem;
+  padding: 3rem; }
+  .faq-container .faq-question-container .faq-icon {
+    display: inline-block;
+    padding: 1rem; }
+  .faq-container .faq-question-container .faq-question {
+    display: inline-block; }
+  .faq-container .faq-question-container .faq-answer {
+    display: block; }
+
+#site-footer {
+  background-color: #214286; }
+  #site-footer .section-inner .footer-credits p {
+    color: #fff; }
+  #site-footer .section-inner .to-the-top {
+    color: #fff; }
